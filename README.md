@@ -1,4 +1,4 @@
-# Comparartive-Analysis--Tableau
+# Comparartive-Analysis-Tableau
 Regional Insights Through Tableau: Evaluating Strengths and Weaknesses Using World Bank Indicators
 
 The project aims to use Tableau to analyze and visualize regional data from the World Bank Indicators dataset. By focusing on two regions, the objective is to uncover strengths and weaknesses across four categories of measures, compare their overall performance, and provide actionable recommendations to address identified challenges.
